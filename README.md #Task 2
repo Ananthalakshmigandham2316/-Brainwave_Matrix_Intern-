@@ -1,0 +1,44 @@
+#Brainwave_Matrix_Intern #Task_2
+# 🛒 E-Commerce Website
+
+This is a responsive and interactive **E-Commerce Website** built using **HTML**, **CSS**, and **JavaScript**. It simulates a simple online shopping experience where users can browse products, add items to the cart, and proceed to checkout.
+
+---
+
+## 📌 Features
+
+- 🌐 Responsive user interface
+- 🛍️ Product listing with images, names, and prices
+- ➕ Add to Cart functionality
+- 🧮 Dynamic cart with item count and total price calculation
+- ❌ Remove items from cart
+- 💳 Checkout interface (mock)
+- 🧭 Smooth navigation and interactive layout
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Dynamic content and interactivity  
+
+---
+
+## 📁 Folder Structure
+ecommerce-website/
+│
+├── index.html # Main HTML file
+├── style.css # Styling (CSS)
+├── script.js # Functionality (JavaScript)
+└── images/ # Product images
+
+---
+
+## 📚 Future Improvements
+
+- 🧾 Checkout form
+- 🔐 User login/authentication
+- 🗃️ Backend integration with database (Node.js or Firebase)
+- 🛒 Persistent cart using local storage
+
